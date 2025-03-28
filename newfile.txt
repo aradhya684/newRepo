@@ -1,1 +1,2 @@
 this is new file created using vim in group B repository
+now this file is being edited by group A
